@@ -1,0 +1,20 @@
+.hero-section {
+    background-image: url('../../assets/image/1.jpg');
+    height: auto;
+    padding: 12% 0;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    opacity: 0.95;
+}
+
+.hero-btn {
+    border-radius: 5px !important;
+}
+
+.hero-section-title,
+.hero-section-paragraph {
+    color: #fff;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.6);
+    ;
+}

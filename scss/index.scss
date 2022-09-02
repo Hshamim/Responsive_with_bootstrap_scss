@@ -1,0 +1,17 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
+@import "./nav/navbar.scss";
+@import "./hero/hero.scss";
+@import './feature/feature.scss';
+@import './Carousel/carousel.scss';
+@import './call_to_action/call_to_action.scss';
+@import './space/specification.scss';
+@import './contact/contact.scss';
+@import './download/download.scss';
+@import './about/about.scss'
+
+// * {
+//     padding: 0;
+//     box-sizing: 0;
+//     overflow: hidden;
+//     overflow-x: hidden;
+// }
